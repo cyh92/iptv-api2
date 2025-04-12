@@ -2,3 +2,26 @@
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
+
+
+安徽卫视,https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=2505f8361744433962
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1744426754&sign=02c9a1f84f7a276d2353d1d1b685744d
+东南卫视,https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=136cc8dc1744436762
+东方卫视,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1744434005-ee4bf6a04c124f2c8131ad13d154a608-0-f201ca0d4fbc4c73ab711bb9382bef54
+甘肃卫视,https://hls.gstv.com.cn/skt649/479u8o.m3u8
+广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+贵州卫视,https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=60250fc35aa9c1de4f184ffb212a107c&txTime=67F9D70F
+海南卫视,https://livelyws.chinamcache.com/lyws/newzb02.m3u8?auth_key=1726280384-0-0-2d49871fcd872001aea079c68303991c
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1744433969&k=bbd4a235e6f460250a69a8c0baed1225
+黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=76bb3029de8ef83e03ef4497e0263fb3&wsTime=1744441151&wsSession=67840051d44f519606759497-174442675174992&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+吉林卫视,https://hls.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/index.m3u8?txSecret=2f6509e2345ba25077f6027f0b7f3052&txTime=67FA0F5A
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
+青海卫视,https://stream.qhbtv.com/qhws/playlist.m3u8?_upt=9e8020f11744433970
+山东卫视,{SHANDONGTV}
+山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/x1sqlR0.m3u8
+陕西卫视,http://stream.snrtv.com/sxbc-star-fmnBEZ.m3u8
+西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=33d3a87f1fb3b06d0da7269c6fb1933d&time=67f9d6fc
+新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1744430343-3-3-633e21a056cbcddd3de26f8e2e200167&aliyun_uuid=33f95dfd-45c4-40fc-b1a6-03f0d4ef483d
+云南卫视,https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
+浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1744426774-p345bp9ib6kbquez1pglqgof43pkc0sp-0-d296ad5b0f77c62f778f27d7a76fea74
