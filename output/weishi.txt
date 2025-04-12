@@ -1,4 +1,5 @@
 📡卫视频道,#genre#
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1744423209&sign=0445c097158f12cd3c3e8fdbe5cb6308
 东方卫视,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1744434005-ee4bf6a04c124f2c8131ad13d154a608-0-f201ca0d4fbc4c73ab711bb9382bef54
 甘肃卫视,https://hls.gstv.com.cn/skt649/479u8o.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
@@ -7,12 +8,12 @@
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=752da5619c70e3967639453b601e5cec&time=67f9c926
 浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1744423228-lvhq79bv781ppojbhu0dox26ijniqtbi-0-6fccdf9628c9ab79133334d8f5317f55
+北京卫视HD,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1744423209&sign=0445c097158f12cd3c3e8fdbe5cb6308
 河南卫视HD,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=a948066bb5d332b40e96e4adaf9acc08&wsTime=1744437608&wsSession=67840051d44f519606759497-174442320870647&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
 
 🈳无结果频道,#genre#
 安多卫视,url
 安徽卫视,url
-北京卫视,url
 兵团卫视,url
 重庆卫视,url
 大湾区卫视,url
@@ -49,10 +50,9 @@
 云南卫视,url
 安多卫视HD,url
 安徽卫视HD,url
-北京卫视HD,url
 兵团卫视HD,url
 重庆卫视HD,url
 大湾区卫视HD,url
 
 🕘️更新时间,#genre#
-2025-04-12 10:47:28,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1744434005-ee4bf6a04c124f2c8131ad13d154a608-0-f201ca0d4fbc4c73ab711bb9382bef54
+2025-04-12 10:47:28,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1744423209&sign=0445c097158f12cd3c3e8fdbe5cb6308
