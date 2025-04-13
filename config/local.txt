@@ -19,3 +19,13 @@
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv$LR•IPV4『线路9』
 香港卫视,https://stream1.freetv.fun/c751876ae5ceaa0d82b5cf2badc152342aa92a4b45bf504d12ee45966b2fc644.ctv$LR•IPV4『线路10』
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0$LR•IPV4『线路11』
+
+安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
+西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
+湖南卫视,http://113.56.95.69:53765/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
+河南卫视,http://110.81.206.138:49231/tsfile/live/23047_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://221.226.215.162:352/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://61.157.139.15:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://223.241.247.214:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://www.peanutbar.cn:8099/tsfile/live/0139_1.m3u8?key=txiptv&url=tvzb.com
