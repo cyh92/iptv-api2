@@ -35,18 +35,18 @@
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=33d3a87f1fb3b06d0da7269c6fb1933d&time=67f9d6fc
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 新疆卫视,https://slstplay.xjtvs.com.cn/xjtv1/xjtv1stream.m3u8?auth_key=1744430343-3-3-633e21a056cbcddd3de26f8e2e200167&aliyun_uuid=33f95dfd-45c4-40fc-b1a6-03f0d4ef483d
 云南卫视,https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
 浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1744426774-p345bp9ib6kbquez1pglqgof43pkc0sp-0-d296ad5b0f77c62f778f27d7a76fea74
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 安徽卫视HD,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
 北京卫视HD,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
-北京卫视HD,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1744671609&sign=55ed7f2b4847e9604a2924228e73b7a8
+北京卫视HD,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1744765208&sign=c96453bf7ecb42dd73e7d3f95d5148c0
 重庆卫视HD,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
-河南卫视HD,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=6412d7d32e00d41f76e4d1c5d747cec4&wsTime=1744686008&wsSession=a4c7d513086efc42b3f98e23-174467160900870&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+河南卫视HD,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=2e0fe40fef6e5c82126c8015847cc8a2&wsTime=1744779608&wsSession=d208edfeb9fbe3d0c3d27193-174476520861734&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
 
 🈳无结果频道,#genre#
 安多卫视,url
@@ -67,4 +67,4 @@
 大湾区卫视HD,url
 
 🕘️更新时间,#genre#
-2025-04-15 08:03:07,https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=2505f8361744433962
+2025-04-16 09:19:11,https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=2505f8361744433962
