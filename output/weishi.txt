@@ -67,4 +67,4 @@
 大湾区卫视HD,url
 
 🕘️更新时间,#genre#
-2025-04-16 09:19:11,https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=2505f8361744433962
+2025-04-16 11:00:24,https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=2505f8361744433962
