@@ -42,7 +42,7 @@
 安徽卫视HD,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
 北京卫视HD,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
 重庆卫视HD,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
-河南卫视HD,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=2296ea682d1e170edc7e2b06f0250b44&wsTime=1744808349&wsSession=a4c7d513086efc42b3f98e23-174479395017610&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+河南卫视HD,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=a042dc76d628764b42e9278d984cb447&wsTime=1744848007&wsSession=d208edfeb9fbe3d0c3d27193-174483360817892&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
 
 🈳无结果频道,#genre#
 安多卫视,url
@@ -63,4 +63,4 @@
 大湾区卫视HD,url
 
 🕘️更新时间,#genre#
-2025-04-16 17:01:37,https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=2505f8361744433962
+2025-04-17 04:13:34,https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=2505f8361744433962
