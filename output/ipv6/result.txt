@@ -56,4 +56,4 @@
 大湾区卫视HD,url
 
 🕘️更新时间,#genre#
-2025-04-19 13:51:31,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1745125206-9967b90b68834a33b65cf9d59a7792f8-0-4b8976d666a19cec62565fdac8164ba5
+2025-04-19 13:55:08,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1745125206-9967b90b68834a33b65cf9d59a7792f8-0-4b8976d666a19cec62565fdac8164ba5
