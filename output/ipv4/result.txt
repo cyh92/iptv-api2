@@ -1,13 +1,12 @@
 卫视频道,#genre#
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1745035209&sign=71f1fecb74c6ac9057b4aa70f7e5a097
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-北京卫视HD,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1745035209&sign=71f1fecb74c6ac9057b4aa70f7e5a097
 
 🈳无结果频道,#genre#
 安多卫视,url
 安徽卫视,url
+北京卫视,url
 兵团卫视,url
 重庆卫视,url
 大湾区卫视,url
@@ -51,10 +50,11 @@
 浙江卫视,url
 安多卫视HD,url
 安徽卫视HD,url
+北京卫视HD,url
 兵团卫视HD,url
 重庆卫视HD,url
 大湾区卫视HD,url
 河南卫视HD,url
 
 🕘️更新时间,#genre#
-2025-04-19 12:51:17,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1745035209&sign=71f1fecb74c6ac9057b4aa70f7e5a097
+2025-04-19 13:51:31,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
