@@ -1,9 +1,9 @@
 #https://raw.githubusercontent.com/cyh92/Livelist/refs/heads/main/CNTV.m3u
 
-https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
+#https://raw.githubusercontent.com/mytv-android/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 
 #https://raw.githubusercontent.com/0047ol/China-TV-Live-M3U8/refs/heads/main/tv.m3u
 #https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 #自用保留源
 
-
+https://gitee.com/cyh92/StaticPage/raw/master/tv/live.txt
