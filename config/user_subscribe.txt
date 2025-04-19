@@ -6,4 +6,4 @@
 #https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 #自用保留源
 
-https://gitee.com/cyh92/StaticPage/raw/master/tv/live.txt
+#https://gitee.com/cyh92/StaticPage/raw/master/tv/live.txt
