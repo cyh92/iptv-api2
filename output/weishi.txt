@@ -16,6 +16,8 @@
 山西卫视,https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/x1sqlR0.m3u8
 陕西卫视,http://stream.snrtv.com/sxbc-star-fmnBEZ.m3u8
 西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=33d3a87f1fb3b06d0da7269c6fb1933d&time=67f9d6fc
+西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
+香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a809235421&amp;wsMonitor=0#rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -23,6 +25,7 @@
 云南卫视,https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
 浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1744426774-p345bp9ib6kbquez1pglqgof43pkc0sp-0-d296ad5b0f77c62f778f27d7a76fea74
 北京卫视HD,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1745035209&sign=71f1fecb74c6ac9057b4aa70f7e5a097
+河南卫视HD,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=a3aac63a740ae82760ea89aa93f3cad2&wsTime=1745049608&wsSession=9ccb11ee22de8a0950e13fd0-174503520915563&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
 
 🈳无结果频道,#genre#
 安多卫视,url
@@ -54,7 +57,6 @@
 兵团卫视HD,url
 重庆卫视HD,url
 大湾区卫视HD,url
-河南卫视HD,url
 
 🕘️更新时间,#genre#
 2025-04-19 12:44:21,https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=2505f8361744433962
