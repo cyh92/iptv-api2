@@ -25,7 +25,6 @@
 云南卫视,https://hwapi.yntv.net/62hdvf/nqyn7w.m3u8
 浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1744426774-p345bp9ib6kbquez1pglqgof43pkc0sp-0-d296ad5b0f77c62f778f27d7a76fea74
 北京卫视HD,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1745035209&sign=71f1fecb74c6ac9057b4aa70f7e5a097
-河南卫视HD,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=a3aac63a740ae82760ea89aa93f3cad2&wsTime=1745049608&wsSession=9ccb11ee22de8a0950e13fd0-174503520915563&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
 
 🈳无结果频道,#genre#
 安多卫视,url
@@ -57,6 +56,7 @@
 兵团卫视HD,url
 重庆卫视HD,url
 大湾区卫视HD,url
+河南卫视HD,url
 
 🕘️更新时间,#genre#
-2025-04-19 12:44:21,https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=2505f8361744433962
+2025-04-19 12:47:56,https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=2505f8361744433962
