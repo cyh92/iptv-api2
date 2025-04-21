@@ -24,6 +24,7 @@
 三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
+西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=c094c20a0ac29c20bf52013654677e2f&time=6805d0d6
 厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -99,4 +100,4 @@
 大湾区卫视HD,url
 
 🕘️更新时间,#genre#
-2025-04-21 13:11:47,http://stream.qhbtv.com/adws/sd/live.m3u8
+2025-04-21 13:53:30,http://stream.qhbtv.com/adws/sd/live.m3u8
