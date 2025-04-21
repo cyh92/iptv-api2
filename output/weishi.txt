@@ -1,5 +1,6 @@
 卫视频道,#genre#
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1745226009&sign=17fad854a1e6f32f0b1f9cbb7ad549ab
 东方卫视,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1745298005-05a1097fc5614bc58ac9407f4cf8d8e4-0-d97aeeda895375ec780ea26b1519995c
 甘肃卫视,https://hls.gstv.com.cn/skt649/479u8o.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
@@ -7,10 +8,10 @@
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 海南卫视,https://livelyws.chinamcache.com/lyws/newzb02.m3u8?auth_key=1726280384-0-0-2d49871fcd872001aea079c68303991c
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1745229621&k=b0e6dcc07c970ae138fb34eb5c69075b
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1745233221&k=fa7c55d3be03ff982ee99f2b9114c58e
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://nctv.top/IDOEPpiryt/hntv.php?id=hnws
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=ecac3e2e6caad09e3c7ca4add6a5f291&wsTime=1745236809&wsSession=9ccb11ee22de8a0950e13fd0-174522241005074&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=831d74751935cdca5a9768c986cdb619&wsTime=1745240408&wsSession=a4c7d513086efc42b3f98e23-174522600902314&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 江苏卫视,http://nctv.top/IDOEPpiryt/jstv5.php?id=jsws
 江苏卫视,http://nctv.top/IDOEPpiryt/jstv5.php?id=jsws
@@ -24,7 +25,7 @@
 三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
-西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=614a084534d3d60cc9ce87a41931b4c3&time=6805fb07
+西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=db16358f38131d5d4236f278a2411ba1&time=68060917
 厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -56,16 +57,16 @@
 浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
-浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1745222426-le0k1y43a15gqqepujm6kq349qz1c33z-0-b1af3c29b98363e86af7e45a1964482b
+浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1745226025-8fexltodxrtzjxmuid42wh6ljsxrdv5i-0-142547c8984c541d45729a2b46778c75
 安多卫视HD,http://stream.qhbtv.com/adws/sd/live.m3u8
+北京卫视HD,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1745226009&sign=17fad854a1e6f32f0b1f9cbb7ad549ab
 北京卫视4k,http://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
 河南卫视HD,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视HD,http://nctv.top/IDOEPpiryt/hntv.php?id=hnws
-河南卫视HD,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=ecac3e2e6caad09e3c7ca4add6a5f291&wsTime=1745236809&wsSession=9ccb11ee22de8a0950e13fd0-174522241005074&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+河南卫视HD,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=831d74751935cdca5a9768c986cdb619&wsTime=1745240408&wsSession=a4c7d513086efc42b3f98e23-174522600902314&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
 
 🈳无结果频道,#genre#
 安徽卫视,url
-北京卫视,url
 兵团卫视,url
 重庆卫视,url
 大湾区卫视,url
@@ -94,10 +95,9 @@
 星空卫视,url
 延边卫视,url
 安徽卫视HD,url
-北京卫视HD,url
 兵团卫视HD,url
 重庆卫视HD,url
 大湾区卫视HD,url
 
 🕘️更新时间,#genre#
-2025-04-21 16:57:14,http://stream.qhbtv.com/adws/sd/live.m3u8
+2025-04-21 17:53:40,http://stream.qhbtv.com/adws/sd/live.m3u8
