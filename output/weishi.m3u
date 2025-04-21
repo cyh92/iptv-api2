@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安多卫视.png" group-title="卫视频道",安多卫视
 http://stream.qhbtv.com/adws/sd/live.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="卫视频道",北京卫视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1745233209&sign=c234328d0aec621909550d612b5d2158
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1745244011&sign=841723a8a984784164987368c1d41f56
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视.png" group-title="卫视频道",东方卫视
 https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1745298005-05a1097fc5614bc58ac9407f4cf8d8e4-0-d97aeeda895375ec780ea26b1519995c
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
@@ -18,13 +18,13 @@ https://livelyws.chinamcache.com/lyws/newzb02.m3u8?auth_key=1726280384-0-0-2d498
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
 http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
-https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1745240419&k=96e47c9657be8b9a2a9e21f52d2eb087
+https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1745251222&k=c6046b2272c9753d1d5dda1faf735089
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
 http://1.94.31.214/php/hntv.php?id=hnws
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
 http://nctv.top/IDOEPpiryt/hntv.php?id=hnws
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视.png" group-title="卫视频道",河南卫视
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=5acd61faed2b1fe36ed9dac672e5e3f9&wsTime=1745247608&wsSession=a4c7d513086efc42b3f98e23-174523320928060&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=77e7e840e4d8836cf923d41d3f7871b6&wsTime=1745258410&wsSession=a4c7d513086efc42b3f98e23-174524401144015&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
 https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
@@ -52,7 +52,7 @@ http://php.jdshipin.com/xztv.php?id=ws
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
 http://php.jdshipin.com/xztv.php?id=ws
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
-https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=fd39f1da02d34f7166bf3e15cb08ceaf&time=68062538
+https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=c74074e61473b498106fdecacca1ff7b&time=68064f68
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
 https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8
 #EXTINF:-1 tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/香港卫视.png" group-title="卫视频道",香港卫视
@@ -116,11 +116,11 @@ https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
 http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
-https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1745233226-kekznykkew7oydjglg6ujnk0glcj4pk8-0-891362116904707b9f1378ec7392e5b3
+https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1745244031-2de2dky49eypfco41ghcrh5ayyoq9n8a-0-330d40edf4282d3a1f54991645965060
 #EXTINF:-1 tvg-name="安多卫视HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安多卫视HD.png" group-title="卫视频道",安多卫视HD
 http://stream.qhbtv.com/adws/sd/live.m3u8
 #EXTINF:-1 tvg-name="北京卫视HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视HD.png" group-title="卫视频道",北京卫视HD
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1745233209&sign=c234328d0aec621909550d612b5d2158
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1745244011&sign=841723a8a984784164987368c1d41f56
 #EXTINF:-1 tvg-name="北京卫视4k" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视4k.png" group-title="卫视频道",北京卫视4k
 http://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
 #EXTINF:-1 tvg-name="河南卫视HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视HD.png" group-title="卫视频道",河南卫视HD
@@ -128,7 +128,7 @@ http://1.94.31.214/php/hntv.php?id=hnws
 #EXTINF:-1 tvg-name="河南卫视HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视HD.png" group-title="卫视频道",河南卫视HD
 http://nctv.top/IDOEPpiryt/hntv.php?id=hnws
 #EXTINF:-1 tvg-name="河南卫视HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/河南卫视HD.png" group-title="卫视频道",河南卫视HD
-http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=5acd61faed2b1fe36ed9dac672e5e3f9&wsTime=1745247608&wsSession=a4c7d513086efc42b3f98e23-174523320928060&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=77e7e840e4d8836cf923d41d3f7871b6&wsTime=1745258410&wsSession=a4c7d513086efc42b3f98e23-174524401144015&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="🈳无结果频道",安徽卫视
 url
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="🈳无结果频道",兵团卫视
@@ -193,5 +193,5 @@ url
 url
 #EXTINF:-1 tvg-name="大湾区卫视HD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大湾区卫视HD.png" group-title="🈳无结果频道",大湾区卫视HD
 url
-#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安多卫视.png" group-title="🕘️更新时间",2025-04-21 21:53:21
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/安多卫视.png" group-title="🕘️更新时间",2025-04-21 22:53:32
 http://stream.qhbtv.com/adws/sd/live.m3u8
