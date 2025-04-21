@@ -16,11 +16,15 @@
 江苏卫视,http://nctv.top/IDOEPpiryt/jstv5.php?id=jsws
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?/1.m3u8=ba357f031594546763
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?/1.m3u8=ba357f031594546763
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w614428743.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net:443/bltvhd/bltv1/chunklist.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklistw1266569526.m3u
 三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
-西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=c094c20a0ac29c20bf52013654677e2f&time=6805d0d6
+厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
@@ -79,14 +83,12 @@
 内蒙古卫视,url
 宁夏卫视,url
 农林卫视,url
-人间卫视,url
 山东卫视,url
 山西卫视,url
 陕西卫视,url
 深圳卫视,url
 四川卫视,url
 天津卫视,url
-厦门卫视,url
 星空卫视,url
 延边卫视,url
 安徽卫视HD,url
@@ -96,4 +98,4 @@
 大湾区卫视HD,url
 
 🕘️更新时间,#genre#
-2025-04-21 13:08:50,http://stream.qhbtv.com/adws/sd/live.m3u8
+2025-04-21 13:11:47,http://stream.qhbtv.com/adws/sd/live.m3u8
