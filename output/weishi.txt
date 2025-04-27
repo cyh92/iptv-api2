@@ -163,4 +163,4 @@
 大湾区卫视HD,url
 
 🕘️更新时间,#genre#
-2025-04-27 18:53:35,http://stream.qhbtv.com/adws/sd/live.m3u8
+2025-04-27 19:53:56,http://stream.qhbtv.com/adws/sd/live.m3u8
