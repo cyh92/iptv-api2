@@ -10,18 +10,19 @@
 东方卫视,http://42.227.88.121:4022/rtp/225.1.4.85:1114
 东方卫视,http://219.154.185.68:4022/rtp/225.1.4.85:1114
 东方卫视,http://42.227.88.121:4022/rtp/225.1.4.85:1114
-东方卫视,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1745859610-6a6fbd90ab284a1491a5b6734ec263d3-0-2c7516a646a46ce4bc12a864968ba0ef
+东方卫视,https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1745902806-7dc1aed6625747feb7e41ec09ab15200-0-683de0778ee6e364c28e16431cd50443
 甘肃卫视,https://hls.gstv.com.cn/skt649/479u8o.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+海南卫视,https://livelyws.chinamcache.com/lyws/newzb02.m3u8?auth_key=1726280384-0-0-2d49871fcd872001aea079c68303991c
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 海南卫视,https://livelyws.chinamcache.com/lyws/newzb02.m3u8?auth_key=1726280384-0-0-2d49871fcd872001aea079c68303991c
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1745820025&k=4712053e10c89af213b51b742c85aea0
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1745823617&k=23bf999d1e3de8ee8eebc20b011a258a
 河南卫视,http://219.154.185.68:4022/rtp/225.1.4.98:1127
 河南卫视,http://42.227.88.121:4022/rtp/225.1.4.98:1127
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://nctv.top/IDOEPpiryt/hntv.php?id=hnws
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=5818f12d347a0192ea12e6c9d55727a0&wsTime=1745827216&wsSession=2f9b24714dec566af70aaf7a-174581281701688&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=436d09162041e1c4d10c627f697a6917&wsTime=1745830807&wsSession=70fb1ed2cf263ab7a82970ad-174581640792762&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
 黑龙江卫视,http://219.154.185.68:4022/rtp/225.1.4.91:1120
 黑龙江卫视,http://42.227.88.121:4022/rtp/225.1.4.91:1120
 黑龙江卫视,http://219.154.185.68:4022/rtp/225.1.4.91:1120
@@ -79,7 +80,7 @@
 西藏卫视,http://219.154.185.68:4022/rtp/225.1.4.46:1075
 西藏卫视,http://42.227.88.121:4022/rtp/225.1.4.46:1075
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
-西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=da8a616808eb6d465a68965f25fff14e&time=680efd4e
+西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=06f5d77f7f5874ade27dbdbd1f361016&time=680f0b55
 厦门卫视,http://219.154.185.68:4022/rtp/225.1.4.95:1124
 厦门卫视,http://42.227.88.121:4022/rtp/225.1.4.95:1124
 厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8
@@ -120,7 +121,7 @@
 浙江卫视,http://42.227.88.121:4022/rtp/225.1.4.84:1113
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
-浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1745812828-907agty9pq770lrs4w2utw5luxtgd28z-0-74b0a73190c2bc920336e9597cf10718
+浙江卫视,https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1745816430-kruqj4c3ej4hnpt9bkey313avvsqpt3l-0-0f0f33100ca6cf321ac576d653a54032
 安多卫视HD,http://stream.qhbtv.com/adws/sd/live.m3u8
 安徽卫视HD,http://219.154.185.68:4022/rtp/225.1.4.87:1116
 安徽卫视HD,http://42.227.88.121:4022/rtp/225.1.4.87:1116
@@ -133,7 +134,7 @@
 河南卫视HD,http://42.227.88.121:4022/rtp/225.1.4.98:1127
 河南卫视HD,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视HD,http://nctv.top/IDOEPpiryt/hntv.php?id=hnws
-河南卫视HD,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=5818f12d347a0192ea12e6c9d55727a0&wsTime=1745827216&wsSession=2f9b24714dec566af70aaf7a-174581281701688&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+河南卫视HD,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=436d09162041e1c4d10c627f697a6917&wsTime=1745830807&wsSession=70fb1ed2cf263ab7a82970ad-174581640792762&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
 
 🈳无结果频道,#genre#
 重庆卫视,url
@@ -159,4 +160,4 @@
 大湾区卫视HD,url
 
 🕘️更新时间,#genre#
-2025-04-28 12:55:47,http://stream.qhbtv.com/adws/sd/live.m3u8
+2025-04-28 14:00:47,http://stream.qhbtv.com/adws/sd/live.m3u8
