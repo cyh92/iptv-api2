@@ -4,13 +4,14 @@
 安徽卫视,http://42.227.88.121:4022/rtp/225.1.4.87:1116
 北京卫视,http://219.154.185.68:4022/rtp/225.1.4.81:1110
 北京卫视,http://42.227.88.121:4022/rtp/225.1.4.81:1110
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1746068410&sign=98f7cd711a273449fa38a32dbf594158
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1746072008&sign=c6aa9f28825330c8f1ed1fabfb4f43f6
 兵团卫视,http://219.154.185.68:4022/rtp/225.1.4.97:1126
 兵团卫视,http://42.227.88.121:4022/rtp/225.1.4.97:1126
 东方卫视,http://219.154.185.68:4022/rtp/225.1.4.85:1114
 东方卫视,http://42.227.88.121:4022/rtp/225.1.4.85:1114
 东方卫视,http://219.154.185.68:4022/rtp/225.1.4.85:1114
 东方卫视,http://42.227.88.121:4022/rtp/225.1.4.85:1114
+海南卫视,https://livelyws.chinamcache.com/lyws/newzb02.m3u8?auth_key=1726280384-0-0-2d49871fcd872001aea079c68303991c
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 海南卫视,https://livelyws.chinamcache.com/lyws/newzb02.m3u8?auth_key=1726280384-0-0-2d49871fcd872001aea079c68303991c
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
@@ -120,7 +121,7 @@
 安徽卫视HD,http://42.227.88.121:4022/rtp/225.1.4.87:1116
 北京卫视HD,http://219.154.185.68:4022/rtp/225.1.4.81:1110
 北京卫视HD,http://42.227.88.121:4022/rtp/225.1.4.81:1110
-北京卫视HD,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1746068410&sign=98f7cd711a273449fa38a32dbf594158
+北京卫视HD,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1746072008&sign=c6aa9f28825330c8f1ed1fabfb4f43f6
 北京卫视4k,http://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
 兵团卫视HD,http://219.154.185.68:4022/rtp/225.1.4.97:1126
 兵团卫视HD,http://42.227.88.121:4022/rtp/225.1.4.97:1126
@@ -156,4 +157,4 @@
 大湾区卫视HD,url
 
 🕘️更新时间,#genre#
-2025-05-01 12:04:35,http://stream.qhbtv.com/adws/sd/live.m3u8
+2025-05-01 12:55:31,http://stream.qhbtv.com/adws/sd/live.m3u8
