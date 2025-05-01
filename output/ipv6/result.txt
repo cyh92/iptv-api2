@@ -86,7 +86,6 @@
 厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8
 香港卫视,rtmp://zhibo.hkstv.tv/livestream/mutfysrq
 香港卫视,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
@@ -161,4 +160,4 @@
 大湾区卫视HD,url
 
 🕘️更新时间,#genre#
-2025-05-01 21:17:16,http://stream.qhbtv.com/adws/sd/live.m3u8
+2025-05-01 21:53:31,http://stream.qhbtv.com/adws/sd/live.m3u8
