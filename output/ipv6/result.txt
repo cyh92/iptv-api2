@@ -80,6 +80,7 @@
 西藏卫视,http://219.154.185.68:4022/rtp/225.1.4.46:1075
 西藏卫视,http://42.227.88.121:4022/rtp/225.1.4.46:1075
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws
+西藏卫视,https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=03b916f05896b86c78fe3adcbf4385d4&time=681435b7
 厦门卫视,http://219.154.185.68:4022/rtp/225.1.4.95:1124
 厦门卫视,http://42.227.88.121:4022/rtp/225.1.4.95:1124
 厦门卫视,https://live1b.kxm.xmtv.cn/xmtvbf/tvzb/live.m3u8
@@ -159,4 +160,4 @@
 大湾区卫视HD,url
 
 🕘️更新时间,#genre#
-2025-05-02 11:33:20,http://stream.qhbtv.com/adws/sd/live.m3u8
+2025-05-02 11:59:55,http://stream.qhbtv.com/adws/sd/live.m3u8
