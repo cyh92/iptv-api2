@@ -1,6 +1,6 @@
 卫视频道,#genre#
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1746669609&sign=94b9c43b529668475b90378cf1944278
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1746673209&sign=7e474354333ee4acc413449594a345ec
 海南卫视,https://livelyws.chinamcache.com/lyws/newzb02.m3u8?auth_key=1726280384-0-0-2d49871fcd872001aea079c68303991c
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 海南卫视,https://livelyws.chinamcache.com/lyws/newzb02.m3u8?auth_key=1726280384-0-0-2d49871fcd872001aea079c68303991c
@@ -51,7 +51,7 @@
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 浙江卫视,http://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=2524708799-0-0-9a1229d8b9d311024ebea08c3fb1d63f
 安多卫视HD,http://stream.qhbtv.com/adws/sd/live.m3u8
-北京卫视HD,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1746669609&sign=94b9c43b529668475b90378cf1944278
+北京卫视HD,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1746673209&sign=7e474354333ee4acc413449594a345ec
 北京卫视4k,http://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
 河南卫视HD,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视HD,http://nctv.top/IDOEPpiryt/hntv.php?id=hnws
@@ -96,4 +96,4 @@
 大湾区卫视HD,url
 
 🕘️更新时间,#genre#
-2025-05-08 10:25:57,http://stream.qhbtv.com/adws/sd/live.m3u8
+2025-05-08 11:34:18,http://stream.qhbtv.com/adws/sd/live.m3u8
