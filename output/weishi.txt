@@ -8,6 +8,7 @@
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 海南卫视,https://livelyws.chinamcache.com/lyws/newzb02.m3u8?auth_key=1726280384-0-0-2d49871fcd872001aea079c68303991c
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1747033219&k=60e31d7338d2c1129a86a08b653d640d
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://nctv.top/IDOEPpiryt/hntv.php?id=hnws
 河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=f40ae71ed42f81e36554e3411f9b2a64&wsTime=1747040407&wsSession=a0bb13e01ac911129ba61fb5-174702600765134&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
@@ -73,7 +74,6 @@
 广东卫视,url
 贵州卫视,url
 海峡卫视,url
-河北卫视,url
 湖北卫视,url
 湖南卫视,url
 吉林卫视,url
@@ -100,4 +100,4 @@
 大湾区卫视HD,url
 
 🕘️更新时间,#genre#
-2025-05-12 13:54:21,http://stream.qhbtv.com/adws/sd/live.m3u8
+2025-05-12 14:59:18,http://stream.qhbtv.com/adws/sd/live.m3u8
