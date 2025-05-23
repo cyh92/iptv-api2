@@ -1,5 +1,5 @@
 Name: 安徽卫视, URL: https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=a68b10771748012361$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 北京卫视, URL: https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1748005209&sign=ddd0d9cc869d25278d1fcaa6e4415a6e$订阅源, IPv_Type: ipv4, Date: None, Delay: 606 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 北京卫视, URL: https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1748005209&sign=ddd0d9cc869d25278d1fcaa6e4415a6e$订阅源, IPv_Type: ipv4, Date: None, Delay: 315 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: 东方卫视, URL: https://bp-cdn-ali.bestv.cn/enhance/bestvdfws_enhance.m3u8?auth_key=1748062806-131ea42478fc4816ad2869a1a5aa78dc-0-efd2606453a8bf8d8128985d41c5349a$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 甘肃卫视, URL: https://hls.gstv.com.cn/skt649/tmttss.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 广西卫视, URL: https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
@@ -14,9 +14,9 @@ Name: 青海卫视, URL: https://stream.qhbtv.com/qhws/playlist.m3u8?_upt=c4c924
 Name: 山西卫视, URL: https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/i1sh84V.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 陕西卫视, URL: http://stream.snrtv.com/sxbc-star-cwUVZ9.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 西藏卫视, URL: https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=deab361e4e19669169ccf93659f31772&time=68307156$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
-Name: 香港卫视, URL: http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0, IPv_Type: ipv4, Date: None, Delay: 12 ms, Speed: 0.04 M/s, Resolution: 720x576
+Name: 香港卫视, URL: http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0, IPv_Type: ipv4, Date: None, Delay: 12 ms, Speed: 0.03 M/s, Resolution: 720x576
 Name: 云南卫视, URL: https://hwapi.yntv.net/62hdvf/41hse3.m3u8$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
 Name: 浙江卫视, URL: https://zwebl02.cztv.com/live/channel011080P.m3u8?auth_key=1748005227-3wbpezlv2mn7agj0n87336flvg23g9jw-0-c31960800557f27fe4f2601e37c1a618$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
 Name: 安徽卫视HD, URL: https://live1.ahtv.cn/ahws/playlist.m3u8?_upt=a68b10771748012361$订阅源, IPv_Type: ipv4, Date: None, Delay: -1 ms, Speed: 0.00 M/s, Resolution: None
-Name: 北京卫视HD, URL: https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1748005209&sign=ddd0d9cc869d25278d1fcaa6e4415a6e$订阅源, IPv_Type: ipv4, Date: None, Delay: 606 ms, Speed: 0.00 M/s, Resolution: 1920x1080
+Name: 北京卫视HD, URL: https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1748005209&sign=ddd0d9cc869d25278d1fcaa6e4415a6e$订阅源, IPv_Type: ipv4, Date: None, Delay: 315 ms, Speed: 0.00 M/s, Resolution: 1920x1080
 Name: 河南卫视HD, URL: http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=340172c09d22755b24822c47b13097aa&wsTime=1748019609&wsSession=35e3b7a174f0e53630c16d2d-174800520928274&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1$订阅源, IPv_Type: ipv6, Date: None, Delay: 0 ms, Speed: inf M/s, Resolution: 1920x1080
